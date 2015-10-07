@@ -1,0 +1,13 @@
+[Adblock Plus 2.0]
+! Version: 201510071337
+! Title: WykopBlock
+
+wykop.pl###autopromotion
+www.wykop.pl##.blacklisted
+wykop.pl###fixedBox
+wykop.pl###itemsStream:not(.touch-content) .article:not(.dC)
+wykop.pl###nav > .annotation.type-alert
+www.wykop.pl##ul#dyingLinksBox
+wykop.pl##.baner-mobile
+www.wykop.pl##article.slim
+wykop.pl##li.payentry
