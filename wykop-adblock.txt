@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201510071351
+! Version: 2015101151900
 ! Title: WykopBlock
 
 
@@ -12,3 +12,4 @@ www.wykop.pl##ul#dyingLinksBox
 wykop.pl##.baner-mobile
 www.wykop.pl##article.slim
 wykop.pl##li.payentry
+wykop.pl##div.doodle
