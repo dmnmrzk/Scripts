@@ -13,4 +13,3 @@ wykop.pl##.baner-mobile
 www.wykop.pl##article.slim
 wykop.pl##li.payentry
 wykop.pl##div.doodle
-wykop.pl##div.grid-full
